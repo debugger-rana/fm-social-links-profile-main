@@ -26,16 +26,11 @@ Users should be able to:
 
 - See hover and focus states for all interactive elements on the page
 
-### Screenshot
-
-![](./screenshot.jpg.png)
-
-
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/debugger-rana/fm-social-links-profile-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL here](https://github.com/debugger-rana/fm-social-links-profile-main)
+- Live Site URL: [live site URL here](https://debugger-rana.github.io/fm-social-links-profile-main/)
 
 ## My process
 I use hit and trial methode with given details in design and found it close enough to the pic 
@@ -103,7 +98,6 @@ I will continue my focus on grid property of css and the will like to continue l
 
 ## Author
 
-- Website - [Rana Pratap Singh Patel](https://www.your-site.com)
 - Frontend Mentor - [@debugger-rana](https://www.frontendmentor.io/profile/debugger-rana)
 - Twitter - [@debuggerrana](https://twitter.com/debuggerrana)
 
